@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 from distutils.core import setup
 setup(
-name='{name-of-your-project}',
+name='    ASCII_Art_Generator-Awoukou_Guillaume-CDOF4',
 version='1.0',
-author='{your-full-name-or-your-github-username}',
+author='guillaumeesilv',
 license='MIT',
 long_description=open('README.md').read(),
 )
