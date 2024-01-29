@@ -12,24 +12,28 @@ You can check if Python is installed by opening your command prompt (cmd) and ru
 
 ```shell
 python --version
-s
+```
+
 
 
 Next, install pip, the Python package manager, if it's not already installed. You can do this by running the following command:
 
 ```shell
 python get-pip.py
+```
 
 Verify the installation of pip by typing:
 
 ```shell
 pip --version
+```
 
 
 Now, install the pyfiglet package, which is used to create ASCII art:
 
 ```shell
 pip install pyfiglet
+```
 
 
 ####Usage
@@ -37,6 +41,6 @@ To run the project, execute the following command:
 
 ```shell
 python project.py
-
+```
 
 Enjoy creating ASCII art with various styles!
