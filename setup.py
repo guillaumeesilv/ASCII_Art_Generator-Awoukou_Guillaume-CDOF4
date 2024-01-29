@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 from distutils.core import setup
 setup(
-name='    ASCII_Art_Generator-Awoukou_Guillaume-CDOF4',
+name='ASCII_Art_Generator-Awoukou_Guillaume-CDOF4',
 version='1.0',
 author='guillaumeesilv',
 license='MIT',
