@@ -1,4 +1,5 @@
 
+from pyfiglet import Figlet
 
 def create_ascii_art():
     text=input("enter the text you want to style : ")
@@ -32,3 +33,4 @@ def create_ascii_art():
 
 # Example usage
 create_ascii_art()
+input()
