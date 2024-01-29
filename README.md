@@ -36,7 +36,7 @@ pip install pyfiglet
 ```
 
 
-####Usage
+### Usage
 To run the project, execute the following command:
 
 ```shell
