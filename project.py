@@ -3,10 +3,9 @@
 def create_ascii_art():
     text=input("enter the text you want to style : ")
     
-    form=7
-    while form>6 :
+   
         
-        form = int(input("enter the number of the style you want to apply : 1-slant | 2-block | 3-caligraphy | 4-relief | 5-isometric1\n"))
+    form = int(input("enter the number of the style you want to apply : 1-slant | 2-block | 3-caligraphy | 4-relief | 5-isometric1\n"))
         
         
     if form==1:
