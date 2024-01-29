@@ -1,3 +1,4 @@
+
 from pyfiglet import Figlet
 
 def create_ascii_art():
@@ -34,3 +35,4 @@ def create_ascii_art():
 
 # Example usage
 create_ascii_art()
+input()
