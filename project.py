@@ -6,7 +6,7 @@ def create_ascii_art():
     
    
         
-    form = int(input("enter the number of the style you want to apply : 1-slant | 2-block | 3-caligraphy | 4-relief | 5-isometric1\n"))
+    form = int(input("enter the number of the style you want to apply : 1-slant | 2-block | 3-caligraphy | 4-relief | 5-isometric1 | 6-acrobatic\n"))
         
         
     if form==1:
@@ -23,6 +23,8 @@ def create_ascii_art():
             
     elif form==5:
         form="isometric1"
+    elif form==6:
+        form="acrobatic"
 
         
         
