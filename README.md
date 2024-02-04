@@ -43,4 +43,24 @@ To run the project, execute the following command:
 python project.py
 ```
 
+### Program
+
+**A. Text Input** 
+You can enter the text you want to style.
+
+**B. Style Selection** 
+Choose the desired style for your ASCII art by entering a number:
+
+1. Slant
+2. Block
+3. Caligraphy
+4. Relief
+5. Isometric1
+6. Acrobatic
+
+**C. Color Selection** 
+Specify the text color you want to use. You can input color names such as 'red,' 'green,' 'blue,' etc. If the color is valid, it will be applied to your ASCII art. If not, the default color will be used.
+
+Simply follow the on-screen prompts to create customized ASCII art with text, style, and color of your choice!
+
 Enjoy creating ASCII art with various styles!
